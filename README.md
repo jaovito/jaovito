@@ -6,7 +6,7 @@ My whole life was based on helping people, discovering new things all over the w
 
 **I work with**
 
-oday I am a Software Engineer with a focus on JavaScript, React and Node, but I like working in other technologies too, I like working in communities and supporting people when I have time and I like it a lot.
+Today I am a Software Engineer with a focus on JavaScript, React and Node, but I like working in other technologies too, I like working in communities and supporting people when I have time and I like it a lot.
 
 In a nutshell, it's me, I'm a man who likes to program in JavaScript and play the guitar in his spare time: p I live in Brazil and one of my dreams is to work in another country to have the possibility to get to know other cultures!
 
