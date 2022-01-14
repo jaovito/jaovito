@@ -12,7 +12,7 @@ In a nutshell, it's me, I'm a man who likes to program in JavaScript and play th
 
 *"If one day you are asked why it evolves quickly, say: My fears don't stop my dreams"*
 
-### Technology Stack 👩‍💻
+### Technology Stack 👨‍💻
 
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Typescript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
