@@ -6,9 +6,11 @@ My whole life was based on helping people, discovering new things all over the w
 
 **I work with**
 
-Today I am a Software Engineer with a focus on JavaScript, React and Node, but I like working in other technologies too, I like working in communities and supporting people when I have time and I like it a lot.
+Today I am a Software Engineer with a focus on JavaScript, React Native and Node, but I like working in other technologies too, I like working in communities and supporting people when I have time and I like it a lot. I study the native mobile development stack too, because I want to increase my mobile development experience and some times I work on native apps.
 
-In a nutshell, it's me, I'm a man who likes to program in JavaScript and play the guitar in his spare time: p I live in Brazil and one of my dreams is to work in another country to have the possibility to get to know other cultures!
+I like to study **Game Development** too, I studied **Unity** for 1 year and now I'm studing **Unreal Engine**, so, we can say that I have some experience with C# and C++ for game development.
+
+In a nutshell, it's me, I'm a man who likes to program and play the guitar in his spare time :p. I live in Brazil and one of my dreams is to work in another country with game development to have the possibility to get to know other cultures!
 
 *"If one day you are asked why it evolves quickly, say: My fears don't stop my dreams"*
 
@@ -23,7 +25,10 @@ In a nutshell, it's me, I'm a man who likes to program in JavaScript and play th
 <img align="left" alt="AWS" width="30px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/react/react.png" />
 <img align="left" alt="NodeJS" width="30px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/nodejs/nodejs.png" />
+<img align="left" alt="Unity" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
+<img align="left" alt="Unreal Engine" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png" />
 <img align="left" alt="NodeJS" width="30px" src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" />
+
 
 <br />
 <br />
