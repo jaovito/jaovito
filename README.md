@@ -8,7 +8,7 @@ My whole life was based on helping people, discovering new things all over the w
 
 Today I am a Software Engineer with a focus on JavaScript, React Native and Node, but I like working in other technologies too, I like working in communities and supporting people when I have time and I like it a lot. I study the native mobile development stack too, because I want to increase my mobile development experience and some times I work on native apps.
 
-I like to study **Game Development** too, I studied **Unity** for 1 year and now I'm studing **Unreal Engine**, so, we can say that I have some experience with C# and C++ for game development.
+I like to study **Game Development** too, I studied **Unity** for 1 year and now I'm studing **Unreal Engine** around 1 year too, so, we can say that I have some experience with C# and C++ for game development.
 
 In a nutshell, it's me, I'm a man who likes to program and play the guitar in his spare time :p. I live in Brazil and one of my dreams is to work in another country with game development to have the possibility to get to know other cultures!
 
